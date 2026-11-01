@@ -1,1 +1,10 @@
-{}
+{
+  "17ef27f01a8caf80ff3418b5fd61128a": {
+    "file": "masters/17ef27f01a8caf80ff3418b5fd61128a.bundle",
+    "sha256": "2ab28e5baf1a040ac83e12567a6c1d0767e8c971ca7f4530936c87fc50a55ab5",
+    "master_version": "17ef27f01a8caf80ff3418b5fd61128a",
+    "job": "quality-release-zh-20261101",
+    "status": "approved",
+    "note": "2026-11-01 使用者指示发布的测试包"
+  }
+}
